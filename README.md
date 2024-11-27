@@ -1,6 +1,9 @@
 # TicTacToe-Minecraft
 Final project of spring semester 1400-1401. Repository of students plugin.
 
+![Animation3](https://user-images.githubusercontent.com/35873101/179856231-478b89a1-ba05-40a6-aa00-f504bdd07b64.gif)
+
+
 ## Plugins
 1. [Amirali Seyedzadegan - 40030212040](https://github.com/apnit/TicTacToe-Minecraft/tree/main/plugins/AmirAli_Seyedzadegan)
 2. [Arman Gholizadeh - 40030112086](https://github.com/apnit/TicTacToe-Minecraft/tree/main/plugins/ArmanGholizadeh)
@@ -8,7 +11,17 @@ Final project of spring semester 1400-1401. Repository of students plugin.
 4. [Abolfazl Mohammadi - 40030212073](https://github.com/apnit/TicTacToe-Minecraft/tree/main/plugins/abolfazl-mohammadi)
 5. [Morteza Pourramezan - 40030112027](https://github.com/apnit/TicTacToe-Minecraft/tree/main/plugins/Morteza-Pourramzan)
 6. [Amirali Norouzpour - 40030112122](https://github.com/apnit/TicTacToe-Minecraft/tree/main/plugins/Amirali_Norouzpour)
-6. ...
+7. [Hasti Homayooni - 40030112124](https://github.com/apnit/TicTacToe-Minecraft/tree/main/plugins/Hasti_Homayooni)
+8. [Amirhossein Najafi - 40030212084](https://github.com/apnit/TicTacToe-Minecraft/tree/main/plugins/Amir-Najafi)
+9. [Erfan Zamirpour - 40030112067](https://github.com/apnit/TicTacToe-Minecraft/tree/main/plugins/ErfanZamirpour)
+10. [MohammadFazel Adhaghighi - 40030212049](https://github.com/apnit/TicTacToe-Minecraft/tree/main/plugins/MohammadFazel_Adhaghighi)
+11. [MohammadAsadpour - 40030112006](https://github.com/apnit/TicTacToe-Minecraft/tree/main/plugins/MohammadAsadpour)
+12. [MaryamEhyaee - 40030112005](https://github.com/apnit/TicTacToe-Minecraft/tree/main/plugins/MaryamEhyaee)
+13. [Elahe Fathollahi - 40030212054](https://github.com/apnit/TicTacToe-Minecraft/tree/main/plugins/Elahe_Fathollahi)
+14. [Seyed Abbas Mossavi Asl - 40030712002](https://github.com/apnit/TicTacToe-Minecraft/tree/main/plugins/SeyedAbbasMossaviAsl)
+16. [Niousha Maghsoudnia - 40030112104](https://github.com/apnit/TicTacToe-Minecraft/tree/main/plugins/Niousha-Maghsoudnia)
+17. [Sepehr Naeij - 40030112119](https://github.com/apnit/TicTacToe-Minecraft/tree/main/plugins/Sepehr_Naeij)
+18. [Kimia Khaani - 40030112041](https://github.com/apnit/TicTacToe-Minecraft/tree/main/plugins/Kimia_Khaani)
 
 ## To submit your plugin:
 1. Fork this repo.
